@@ -1,4 +1,4 @@
-Lab Link: Hosting a Web App on Google Cloud Using Compute Engine - GSP662
+Hosting a Web App on Google Cloud Using Compute Engine - GSP662
 
 
 Copy and run the below commands in Cloud Shell:
@@ -6,5 +6,10 @@ Copy and run the below commands in Cloud Shell:
 curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Hosting%20a%20Web%20App%20on%20Google%20Cloud%20Using%20Compute%20Engine/techcps662.sh
 sudo chmod +x techcps662.sh
 ./techcps662.sh
+
+⚠️ Disclaimer
+
+> This guide is only for educational purposes.
+Please follow Google Cloud Skill Boost and Qwiklabs terms of service.
 
 Congratulations, you're all done with the lab
