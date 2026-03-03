@@ -1,7 +1,17 @@
 Hi, I'm Soujanya S
-🎓 Electrical and Electronics Engineering student | 💻 Aspiring Developer
 
-- 🌱 Currently learning: Google Cloud, Web Development, Git & GitHub  
-- 🚀 Goal: Build projects that make a difference  
-- ✉️ Reach me: soujanyaashivaram@gmail.com
+Electrical & Electronics Engineering student driven by curiosity and innovation in emerging technologies.
+
+⚡ Interests:
+Electric Vehicles | Embedded Systems | AI-Driven Automation | IoT
+
+🌱 Currently Learning:
+Microcontrollers, Git & GitHub
+
+🚀 Goal:
+To build meaningful engineering projects that solve real-world problems.
+
+🔗 LinkedIn: https://www.linkedin.com/in/soujanya-s-6a6b602a2/
+
+📩 Reach me: soujanyaashivaram@gmail.com
 
